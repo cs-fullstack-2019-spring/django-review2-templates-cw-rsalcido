@@ -1,3 +1,6 @@
+### POINTS: 1
+### KEY: You commented out table rows so didnt display. Always test your code prior to submission!
+
 # Django review: routes/template inheritance
 
 Finish the song application by finishing the song details page that takes a dynamic URL and route it appropriately.
